@@ -1,0 +1,11 @@
+D:\Topup\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Topup\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Topup\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.FrmFrirstForm.resources
+D:\Topup\HelloWorld\obj\Debug\HelloWorld.FrmCars.resources
